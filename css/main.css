@@ -1254,6 +1254,14 @@ h1, h2, h3, h4, h5, h6 {
   outline: none;
 }
 
+
+.inscripcion{
+margin-top: 60px;
+margin-bottom: 100px;
+font-size: 30px;
+}
+
+
 .input-group-icon {
   position: relative;
 }
